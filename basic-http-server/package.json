@@ -1,0 +1,12 @@
+{
+  "name": "basic-http-node-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "gaurav salvi (grsdev7@gmail.com)",
+  "license": "ISC"
+}
